@@ -1,0 +1,6 @@
+# remote_hosts
+[jump-host]
+ip=12.23.45.78
+[private-server]
+ip=10.0.0.10
+bastion=jump-host
