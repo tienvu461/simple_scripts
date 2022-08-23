@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [ $# -ge 1 ]
 then
     CONFIG=$1
